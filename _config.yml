@@ -9,10 +9,10 @@ baseurl: '/'
 author:
   name: 'Anyways'
   email: info@anyways.eu
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
+  twitter_username: anywayseu
+  facebook_username: 
   github_username:  anyways-open
-  linkedin_username:  joshgerdes
+  linkedin_username:  
 
 defaults:
   -
